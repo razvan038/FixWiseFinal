@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Righteous&display=swap');
+/* ============ REUSABLES ============ */
+:root{
+  /* ======= Colors ======= */
+  --primary: #8644A2;
+  --secondary: #DBC7E3;
+  --secondary2: #141E46;
+  /* ======= Fonts ======= */
+  --primary-font: 'Raleway', sans-serif;
+  --header-weight: 800;
+  --subheader-weight: 600;
+  --paragraph-weight: 400;
+}
+
+*{
+  padding: 10px;
+}

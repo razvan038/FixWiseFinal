@@ -1,0 +1,16 @@
+.ud_buttons{
+    display: flex;
+    gap: 10px;
+}
+
+.add_form{
+    display: flex;
+    gap: 10px;
+}
+
+.input{
+    border-radius: 100px;
+    background-color: var(--secondary);
+    color: var(--primary);
+    border: none;
+}
