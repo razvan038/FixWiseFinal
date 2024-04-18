@@ -1,5 +1,6 @@
 ﻿# FixWiseFinal 
 !DISCLAIMER - pentru functionalitate completa aveti nevoie de npm start atat pe /client, cat si pe /server <br>
+Aplicatia a fost facuta folosind React pentru frontend si Nodejs pentru backend <br>
 Server - listening pe port-ul 5000.<br>
 Client - listening pe port-ul 3000.<br>
 Pe ambele fisiere folositi "npm start".<br>
